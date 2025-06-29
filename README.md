@@ -1,7 +1,8 @@
 ---EmployeeList---
 
--This Project consists of a full-stack Spring Boot web application to manage employee records with Create, Read, Update, and Delete functionalities. Key Features:
+-This Project consists of a full-stack Spring Boot web application to manage employee records with Create, Read, Update, and Delete functionalities. 
 
+Key Features:
 🔄 Full CRUD Functionality: Add, view, update, and delete employee records.
 
 📊 MVC Architecture: Clean separation of concerns using the Model-View-Controller design pattern.
